@@ -9,7 +9,7 @@
     "cordova": "6.4.0",
     "create-react-app": "1.0.2",
     "cucumber": "2.0.0-rc.5",
-    "ejs": "2.5.0",
+    "ejs": "2.6.1",
     "eslint": "3.2.2",
     "express-generator": "4.14.1",
     "flow-bin": "0.37.0",
